@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculateOpdracht1/1.0.0": {
+        "runtime": {
+          "CalculateOpdracht1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateOpdracht1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculateOpdracht1/1.0.0": {
+        "runtime": {
+          "CalculateOpdracht1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateOpdracht1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 9fa9e37fd924667d126f28ce655a29ed85d9e58c
+}
