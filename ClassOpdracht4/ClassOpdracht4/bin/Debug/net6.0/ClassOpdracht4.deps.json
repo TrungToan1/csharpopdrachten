@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassOpdracht4/1.0.0": {
+        "runtime": {
+          "ClassOpdracht4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassOpdracht4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

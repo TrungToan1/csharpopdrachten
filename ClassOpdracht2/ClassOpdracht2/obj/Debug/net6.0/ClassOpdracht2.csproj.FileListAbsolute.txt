@@ -1,0 +1,15 @@
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\bin\Debug\net6.0\ClassOpdracht2.exe
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\bin\Debug\net6.0\ClassOpdracht2.deps.json
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\bin\Debug\net6.0\ClassOpdracht2.runtimeconfig.json
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\bin\Debug\net6.0\ClassOpdracht2.dll
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\bin\Debug\net6.0\ClassOpdracht2.pdb
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.csproj.AssemblyReference.cache
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.AssemblyInfoInputs.cache
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.AssemblyInfo.cs
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.dll
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\refint\ClassOpdracht2.dll
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.pdb
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ClassOpdracht2.genruntimeconfig.cache
+C:\Users\Shado\csharpopdrachten\ClassOpdracht2\ClassOpdracht2\obj\Debug\net6.0\ref\ClassOpdracht2.dll
