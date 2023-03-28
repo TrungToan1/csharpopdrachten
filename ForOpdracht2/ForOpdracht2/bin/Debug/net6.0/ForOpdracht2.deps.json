@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ForOpdracht2/1.0.0": {
+        "runtime": {
+          "ForOpdracht2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForOpdracht2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
